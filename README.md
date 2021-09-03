@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is ***Domenico***, I am 22 years old and I am *Italian*🇮🇹 **Front-end Developer** 👨🏻‍💻
+My name is ***Domenico***, I am 22 years old and I am *Italian* **Front-end Developer** 👨🏻‍💻
 
 **Computer science** has been my passion since I was a child🧑🏻 therefore I decided to undertake studies in this sector.
+
+I have other **passions** including ***music 🎵, video games 🎮 and good food 🍝***.
 
 I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
 
