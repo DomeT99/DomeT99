@@ -24,7 +24,9 @@ I mainly know ***HTML, CSS and Javascript*** alongside various libraries and fra
 
 I’m currently learning ***Vue.js*** and ***PHP***📗
 
-
+<a href="https://github.com/DomeT99/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomeT99&layout=compact&theme=gruvbox" />
+</a>
 
 
 
