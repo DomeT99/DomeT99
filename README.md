@@ -22,7 +22,7 @@ I have other **passions** including ***music 🎵, video games 🎮 and good foo
 
 I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
 
-I’m currently learning ***Vue.js***📗
+I’m currently learning ***Vue.js*** and ***PHP***📗
 
 <a href="https://github.com/DomeT99/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomeT99&layout=compact&theme=gruvbox" />
