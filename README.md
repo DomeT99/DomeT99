@@ -18,7 +18,7 @@ My name is ***Domenico***, I am 22 years old and I am *Italian* ***Front-end Dev
 
 **Computer science** has been my passion since I was a child🧑🏻 therefore I decided to undertake studies in this sector.
 
-I have other **passions** including ***music 🎵, video games 🎮 and good food 🍝***.
+I have other **passions** including ***music 🎵, video games 🎮, good food 🍝*** and ***anime/manga🍙***.
 
 I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
 
