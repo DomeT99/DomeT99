@@ -24,6 +24,7 @@ I mainly know ***HTML, CSS and Javascript*** alongside various libraries and fra
 
 I’m currently learning ***Vue.js*** and ***PHP***📗
 
+<img src="file:///C:/Users/domen/OneDrive/Desktop/Loghi/wetransfer_logo_2021-09-02_1627/logo_dome/logo_def/4)Logo_colori.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domet99&label=Profile%20views&color=0e75b6&style=flat" alt="domet99" /> </p>
 
