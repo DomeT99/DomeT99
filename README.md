@@ -23,8 +23,8 @@ I have other **passions** including ***music 🎵, video games 🎮, good food �
 I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
 
 I’m currently learning ***Vue.js*** and ***PHP***📗
+[![8-Logo-colori.png](https://i.postimg.cc/8k9XjFnn/8-Logo-colori.png)](https://postimg.cc/xqG3ZdQK)
 
-[![8-Logo-colori.png](https://i.postimg.cc/bJdDX5zd/8-Logo-colori.png)](https://postimg.cc/k63XKfRd)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domet99&label=Profile%20views&color=0e75b6&style=flat" alt="domet99" /> </p>
 
