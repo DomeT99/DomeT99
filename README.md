@@ -24,7 +24,7 @@ I mainly know ***HTML, CSS and Javascript*** alongside various libraries and fra
 
 I’m currently learning ***Vue.js*** and ***PHP***📗
 
-<img src="https://ibb.co/1zyhdLc" /> 
+[![8-Logo-colori.png](https://i.postimg.cc/4xbhptL4/8-Logo-colori.png)](https://postimg.cc/HrnxgJ1F)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domet99&label=Profile%20views&color=0e75b6&style=flat" alt="domet99" /> </p>
 
