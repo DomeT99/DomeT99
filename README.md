@@ -22,7 +22,7 @@ I have other **passions** including ***music 🎵, video games 🎮, good food �
 
 I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
 
-I’m currently learning ***Vue.js***,***PHP*** and ***.NET(C#)***📗
+I’m currently learning ***Vue.js***,***PHP*** and ***C#***📗
 
 [![8-Logo-colori.png](https://i.postimg.cc/8k9XjFnn/8-Logo-colori.png)](https://postimg.cc/xqG3ZdQK)
 
