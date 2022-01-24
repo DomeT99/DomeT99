@@ -24,7 +24,7 @@ I mainly know ***HTML, CSS and Javascript*** alongside various libraries and fra
 
 I’m currently learning ***Vue.js***,***PHP*** and ***C#*** 📗
 
-[![8-Logo-colori.png](https://i.postimg.cc/8k9XjFnn/8-Logo-colori.png)](https://postimg.cc/xqG3ZdQK)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domet99&label=Profile%20views&color=0e75b6&style=flat" alt="domet99" /> </p>
 
@@ -47,10 +47,9 @@ I’m currently learning ***Vue.js***,***PHP*** and ***C#*** 📗
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=domet99&show_icons=true&locale=en&layout=compact" alt="domet99" /></p>
 
 
-<p><img style="position:relative; bottom:20px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=domet99&" alt="domet99" /></p>
-</div>
 
 
+[![8-Logo-colori.png](https://i.postimg.cc/8k9XjFnn/8-Logo-colori.png)](https://postimg.cc/xqG3ZdQK)
 
 
 
