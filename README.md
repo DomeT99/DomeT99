@@ -20,9 +20,9 @@ My name is ***Domenico Tenace***, I am 22 years old and I am young *Italian* ***
 
 I have other **passions** including ***music 🎵, video games 🎮, good food 🍝*** and ***anime/manga🍙***.
 
-I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap and JQuery***  🖱 
+I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap,JQuery and Vue.js***  🖱 
 
-I’m currently learning ***Vue.js***,***PHP*** and ***C#*** 📗
+I’m currently learning ***React*** and ***C#*** 📗
 
 
 
