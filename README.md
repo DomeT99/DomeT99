@@ -1,28 +1,11 @@
-### Hi guys 👋
+Hi, nice to meet you!👋
 
-<!--
-**DomeT99/DomeT99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Domenico** and I am a ***software developer***👨🏻‍💻.
 
-Here are some ideas to get you started:
+I am a great lover of computer science, everything about it arouses extreme curiosity in me.
+My knowledge and skills are targeted both in the **Back-end** and in the **Front-end** and my goal is to become a complete computer scientist, capable of solving problems in any sector: programming, systems, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is ***Domenico Tenace***, I am 22 years old and I am young *Italian* ***Web Developer*** 👨🏻‍💻
-
-**Computer science** has been my passion since I was a child🧑🏻 therefore I decided to undertake studies in this sector.
-
-I have other **passions** including ***music 🎵, video games 🎮, good food 🍝*** and ***anime/manga🍙***.
-
-I mainly know ***HTML, CSS and Javascript*** alongside various libraries and frameworks including ***Bootstrap,JQuery and Vue.js***  🖱 
-
-I’m currently learning ***React*** and ***C#*** 📗
+ I love my job because you never stop learning!📗
 
 
 
