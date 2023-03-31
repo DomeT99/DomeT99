@@ -20,4 +20,4 @@ I also contributed to the:
 <p align="left">
 <a href="https://twitter.com/dome_tena99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dome_tena99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/domenico-tenace-982ba51ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="domenico tenace" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16721729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16721729" height="30" width="40" /></a>
+
