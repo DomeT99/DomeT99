@@ -8,13 +8,6 @@
 💎 I like to experiment with new languages ​​and new frameworks, to achieve the goal, which is to specialize in a certain area with certain technologies.
 
 
-I also contributed to the:
-
-✔️ [Bootstrap Italia](https://github.com/italia/bootstrap-italia)
-
-✔️ [Oruga](https://github.com/oruga-ui/oruga)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
