@@ -22,7 +22,7 @@
 
 ## My latest articles
 
-[![The wrappers for your Components: Pages 📃]("../../assets/img/Astro/AstroBanner.png" "The wrappers for your Components: Pages 📃")](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
+[![The wrappers for your Components: Pages 📃]("https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4q0vg88con7c6uelox5h.png" "The wrappers for your Components: Pages 📃")](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
 
 ###
 
