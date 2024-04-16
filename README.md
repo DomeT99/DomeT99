@@ -36,5 +36,9 @@
 ###
 
 ## My series
-[![Basic concepts of Vue.js](https://media.dev.to/cdn-cgi/image/width=250,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkanundtq9gmpbwsy5g1a.png "Basic concepts of Vue.js")](https://dev.to/dvalin99/series/24380)
-[![Basic concepts of Astro 🪐](https://media.dev.to/cdn-cgi/image/width=250,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpkm3a61dj91ochri7nz.png "Basic concepts of Astro 🪐")](https://dev.to/dvalin99/series/26000)
+<div>
+  🔸 <a href="https://dev.to/dvalin99/series/24380" target="_blank">Basic concepts of Vue.js</a> 
+  <br/>
+  <br/>
+  🔸 <a href="https://dev.to/dvalin99/series/26000" target="_blank">Basic concepts of Astro 🪐</a>
+</div>
