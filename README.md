@@ -21,11 +21,20 @@
 ###
 
 ## My latest articles
+<div>
+  🔸 <a href="https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028" target="_blank">The wrappers for your Components: Pages 📃</a> 
+  <br/>
+  <br/>
+  🔸 <a href="https://dev.to/dvalin99/build-your-interface-in-astro-components-2gng" target="_blank">Build your interface in Astro: Components 🧩</a>
+  <br/>
+  <br/>
+  🔸 <a href="https://dev.to/dvalin99/pieces-of-interactives-astro-islands-4nnb" target="_blank">Pieces of interactives: Astro Islands ☄️</a>
+</div>
 
-[![The wrappers for your Components: Pages 📃]("https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4q0vg88con7c6uelox5h.png" "The wrappers for your Components: Pages 📃")](https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028)
+
 
 ###
 
-
-
-###
+## My series
+[![Basic concepts of Vue.js](https://media.dev.to/cdn-cgi/image/width=480,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkanundtq9gmpbwsy5g1a.png "Basic concepts of Vue.js")](https://dev.to/dvalin99/series/24380)
+[![Basic concepts of Astro 🪐](https://media.dev.to/cdn-cgi/image/width=480,height=220,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpkm3a61dj91ochri7nz.png "Basic concepts of Astro 🪐")]([https://dev.to/dvalin99/series/24380](https://dev.to/dvalin99/series/26000))
