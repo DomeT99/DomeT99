@@ -22,13 +22,13 @@
 
 ## My latest articles
 <div>
+    🔸 <a href="https://dev.to/dvalin99/a-reusable-ui-structure-layouts-5eh5" target="_blank">Reusable UI structure: Layouts 💱</a> 
+  <br/>
+  <br/>
   🔸 <a href="https://dev.to/dvalin99/top-3-1-vue-libraries-for-your-next-project-481e" target="_blank">Top 3 (+1) Vue libraries for your next project ⏩</a>
   <br/>
   <br/>
   🔸 <a href="https://dev.to/dvalin99/the-wrappers-for-your-components-pages-5028" target="_blank">The wrappers for your Components: Pages 📃</a> 
-  <br/>
-  <br/>
-  🔸 <a href="https://dev.to/dvalin99/build-your-interface-in-astro-components-2gng" target="_blank">Build your interface in Astro: Components 🧩</a>
 </div>
 
 
