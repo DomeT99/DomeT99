@@ -49,3 +49,13 @@
   🔸 <a href="https://dev.to/dvalin99/series/27756" target="_blank">7 Open Source Projects You Should Know 👁</a>
   
 </div>
+
+## Support me
+
+If you like my content or want to support my work on GitHub, you can support me with a very small donation. 
+<br/>
+I would be grateful 🥹
+
+<a href="https://www.buymeacoffee.com/domenicotenace"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=domenicotenace&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
