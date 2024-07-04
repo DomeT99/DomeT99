@@ -23,13 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-2bmh" target="_blank">7 Open Source Projects You Should Know - C# Edition ✔️</a> 
+   🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-php-edition-2ji0" target="_blank">7 Open Source Projects You Should Know - PHP Edition ✔️</a> 
   <br/>
   <br/>
-  🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-javascript-edition-150" target="_blank">7 Open Source Projects You Should Know - JavaScript Edition ✔️</a> 
+  🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-2bmh" target="_blank">7 Open Source Projects You Should Know - C# Edition ✔️</a> 
   <br/>
   <br/>
-    🔸 <a href="https://dev.to/dvalin99/a-reusable-ui-structure-layouts-5eh5" target="_blank">Reusable UI structure: Layouts 💱</a> 
+    🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-javascript-edition-150" target="_blank">7 Open Source Projects You Should Know - JavaScript Edition ✔️</a> 
   
 
   
