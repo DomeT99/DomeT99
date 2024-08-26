@@ -23,13 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c" target="_blank">7 Open Source Projects You Should Know - Python Edition ✔️</a> 
+   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-go-edition-3bo4" target="_blank">7 Open Source Projects You Should Know - Go Edition ✔️</a> 
   <br/>
   <br/>
-  🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-rust-edition-3mpe" target="_blank">7 Open Source Projects You Should Know - Rust Edition ✔️</a> 
+  🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c" target="_blank">7 Open Source Projects You Should Know - Python Edition ✔️</a> 
   <br/>
   <br/>
-    🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-java-edition-1mkb" target="_blank">7 Open Source Projects You Should Know - Java Edition ✔️</a> 
+    🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-rust-edition-3mpe" target="_blank">7 Open Source Projects You Should Know - Rust Edition ✔️</a> 
   
 
   
