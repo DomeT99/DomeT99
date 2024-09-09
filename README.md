@@ -27,9 +27,8 @@
   <br/>
   <br/>
   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-go-edition-3bo4" target="_blank">7 Open Source Projects You Should Know - Go Edition ✔️</a>  
-  <br/>
-  <br/>
-    🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c" target="_blank">7 Open Source Projects You Should Know - Python Edition ✔️</a>  
+  <br/> 
+    🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-python-edition-4h6c" target="_blank">7 Open Source Projects You Should Know - Python Edition ✔️</a>  
   
 
   
