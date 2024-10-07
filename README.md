@@ -23,12 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk" target="_blank">Hacktoberfest 2024 is here! 🎃</a> 
+   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958" target="_blank">7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]</a> 
   <br/>
   <br/>
-  🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n" target="_blank">7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]</a>  
+   🔸 <a href="https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk" target="_blank">Hacktoberfest 2024 is here! 🎃</a> 
   <br/> 
-    🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-c-edition-107k" target="_blank">7 Open Source Projects You Should Know - C Edition ✔️</a>  
+  <br/> 
+   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n" target="_blank">7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]</a>  
   
 
   
@@ -40,6 +41,9 @@
 
 ## My series
 <div>
+  🔸 <a href="https://dev.to/dvalin99/series/29049" target="_blank">My Open Source Diary 📕</a> 
+  <br/>
+  <br/>
   🔸 <a href="https://dev.to/dvalin99/series/24380" target="_blank">Basic concepts of Vue.js</a> 
   <br/>
   <br/>
