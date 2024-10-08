@@ -23,13 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958" target="_blank">7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]</a> 
+   🔸  <a href="https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj" target="_blank">Hacktoberfest: First contribution is ok! 🎉</a> 
   <br/>
   <br/>
-   🔸 <a href="https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk" target="_blank">Hacktoberfest 2024 is here! 🎃</a> 
+   🔸 <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958" target="_blank">7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]</a> 
   <br/> 
   <br/> 
-   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-vue-edition-bonus-i4n" target="_blank">7 Open Source Projects You Should Know - Vue Edition ✔️ [BONUS]</a>  
+   🔸  <a href="https://dev.to/this-is-learning/hacktoberfest-2024-is-here-42kk" target="_blank">Hacktoberfest 2024 is here! 🎃</a>   
   
 
   
