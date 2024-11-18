@@ -23,13 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/contribution-another-one-5gb9" target="_blank">Contribution? Another one? 🥳</a> 
+   🔸  <a href="https://dev.to/this-is-learning/write-in-astro-the-syntax-1j3p" target="_blank">Write in Astro: the syntax ✍️</a> 
   <br/>
   <br/>
-   🔸 <a href="https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj" target="_blank">Hacktoberfest: First contribution is ok! 🎉</a> 
+   🔸 <a href="https://dev.to/this-is-learning/contribution-another-one-5gb9" target="_blank">Contribution? Another one? 🥳</a> 
   <br/> 
   <br/> 
-   🔸  <a href="https://dev.to/this-is-learning/7-open-source-projects-you-should-know-italian-edition-bonus-2958" target="_blank">7 Open Source Projects You Should Know - Italian Edition ✔️ [BONUS]</a> 
+   🔸   <a href="https://dev.to/this-is-learning/hacktoberfest-first-contribution-is-ok-2pdj" target="_blank">Hacktoberfest: First contribution is ok! 🎉</a> 
   
 
   
