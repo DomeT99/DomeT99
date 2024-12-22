@@ -23,13 +23,13 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/astro-minimal-start-with-this-template-46fi" target="_blank">Astro Minimal: start with this template 🫣</a> 
+   🔸  <a href="https://dev.to/this-is-learning/add-content-to-your-site-markdown-1625" target="_blank">Add content to your site: Markdown 📝</a> 
   <br/>
   <br/>
-   🔸 <a href="https://dev.to/this-is-learning/write-in-astro-the-syntax-1j3p" target="_blank">Write in Astro: the syntax ✍️</a> 
+   🔸 <a href="https://dev.to/this-is-learning/astro-minimal-start-with-this-template-46fi" target="_blank">Astro Minimal: start with this template 🫣</a> 
   <br/> 
   <br/> 
-   🔸   <a href="https://dev.to/this-is-learning/contribution-another-one-5gb9" target="_blank">Contribution? Another one? 🥳</a> 
+   🔸   <a href="https://dev.to/this-is-learning/write-in-astro-the-syntax-1j3p" target="_blank">Write in Astro: the syntax ✍️</a> 
   
 
   
