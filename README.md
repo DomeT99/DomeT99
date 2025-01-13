@@ -23,12 +23,12 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/github-unwrapped-2024-recap-26km" target="_blank">GitHub Unwrapped 2024: recap 🧢</a> 
+   🔸  <a href="https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli" target="_blank">Uno Platform is the revolution 🛸</a> 
   <br/>
   <br/>
-   🔸 <a href="https://dev.to/this-is-learning/add-content-to-your-site-markdown-1625" target="_blank">Add content to your site: Markdown 📝</a>  
+   🔸 <a href="https://dev.to/this-is-learning/github-unwrapped-2024-recap-26km" target="_blank">GitHub Unwrapped 2024: recap 🧢</a>   
   <br/> 
-   🔸 <a href="https://dev.to/this-is-learning/astro-minimal-start-with-this-template-46fi" target="_blank">Astro Minimal: start with this template 🫣</a> 
+   🔸 <a href="https://dev.to/this-is-learning/add-content-to-your-site-markdown-1625" target="_blank">Add content to your site: Markdown 📝</a>
   
 
   
