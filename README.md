@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Domenico, Software developer passionate about the IT world and everything related to it.<br>This is my GitHub profile where I share my Open Source projects, which you can contribute and use however you like! 🚀</p>
+<p align="left">I'm Domenico, Software developer passionate about the Open Source world and everything related to it.<br>This is my GitHub profile where I share my Open Source projects, which you can contribute and use however you like! 🚀</p>
 
 ###
 
