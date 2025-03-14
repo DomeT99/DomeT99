@@ -7,15 +7,19 @@
 ###
 
 <div align="left">
+  <a href="https://bsky.app/profile/dvalin99.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&label=&color=208bfe&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
+  </a>
+  <a href="https://mastodon.uno/@dvalin99" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mastodon&label=&color=5b49df&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/domenico-tenace/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://dev.to/dvalin99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
+    <img src="https://img.shields.io/static/v1?message=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
-  <a href="https://medium.com/@domenicotenace" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
+  
 </div>
 
 ###
