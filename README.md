@@ -22,6 +22,16 @@
   
 </div>
 
+
+###
+
+###
+
+## My Stack
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,cs,dotnet&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,cs,dotnet&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+
 ###
 
 ## My latest articles
@@ -41,6 +51,8 @@
 
 
 ###
+
+
 
 ## My series
 <div>
