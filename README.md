@@ -37,12 +37,12 @@
 ## My latest articles
 <div>
 
-   🔸  <a href="https://dev.to/this-is-learning/hot-design-is-here-overview-174e" target="_blank">Hot Design is here! - Overview 🔥</a> 
+   🔸  <a href="https://dev.to/this-is-learning/astro-minimal-international-add-i18n-features-5gc5" target="_blank">Astro Minimal international: add i18n feature 🌎</a> 
   <br/>
   <br/>
-   🔸  <a href="https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli" target="_blank">Uno Platform is the revolution 🛸</a>  
+   🔸  <a href="https://dev.to/this-is-learning/hot-design-is-here-overview-174e" target="_blank">Hot Design is here! - Overview 🔥</a>  
   <br/> 
-   🔸 <a href="https://dev.to/this-is-learning/github-unwrapped-2024-recap-26km" target="_blank">GitHub Unwrapped 2024: recap 🧢</a>   
+   🔸 <a href="https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli" target="_blank">Uno Platform is the revolution 🛸</a>   
   
 
   
