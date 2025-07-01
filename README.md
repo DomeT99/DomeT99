@@ -25,19 +25,10 @@
 
 ###
 
-## My latest articles
-<div>
+## My latest content on [YouTube](https://www.youtube.com/@domenicotenacedev)
 
-   🔸  <a href="https://dev.to/this-is-learning/astro-minimal-international-add-i18n-features-5gc5" target="_blank">Astro Minimal international: add i18n feature 🌎</a> 
-  <br/>
-  <br/>
-   🔸  <a href="https://dev.to/this-is-learning/hot-design-is-here-overview-174e" target="_blank">Hot Design is here! - Overview 🔥</a>  
-  <br/> 
-   🔸 <a href="https://dev.to/this-is-learning/uno-platform-is-the-revolution-2eli" target="_blank">Uno Platform is the revolution 🛸</a>   
-  
-
-  
-</div>
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 
 
@@ -45,7 +36,7 @@
 
 
 
-## My series
+## My series of articles
 <div>
   🔸 <a href="https://dev.to/dvalin99/series/29049" target="_blank">My Open Source Diary 📕</a> 
   <br/>
