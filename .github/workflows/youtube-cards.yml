@@ -1,14 +1,16 @@
 name: GitHub Readme YouTube Cards
 on:
-  schedule: 
+  schedule:
     - cron: "30 14 * * *"
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
-        with: 
+        with:
           comment_tag_name: YOUTUBE-CARDS
           channel_id: ${{ secrets.YOUTUBE_CHANNEL_ID }}
