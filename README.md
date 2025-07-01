@@ -25,7 +25,7 @@
 
 ###
 
-## My latest content on [YouTube](https://www.youtube.com/@domenicotenacedev)
+## My latest content on [YouTube](https://www.youtube.com/@domenicotenacedev) (IT 🇮🇹)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
