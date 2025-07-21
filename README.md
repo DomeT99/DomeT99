@@ -47,10 +47,7 @@
   🔸 <a href="https://dev.to/dvalin99/series/29049" target="_blank">My Open Source Diary 📕</a> 
   <br/>
   <br/>
-  🔸 <a href="https://dev.to/dvalin99/series/24380" target="_blank">Basic concepts of Vue.js</a> 
-  <br/>
-  <br/>
-  🔸 <a href="https://dev.to/dvalin99/series/26000" target="_blank">Basic concepts of Astro 🪐</a>
+  🔸 <a href="https://dev.to/dvalin99/series/32553" target="_blank">Firebase Essentials 🔥</a> 
   <br/>
   <br/>
   🔸 <a href="https://dev.to/dvalin99/series/27756" target="_blank">7 Open Source Projects You Should Know 👁</a>
