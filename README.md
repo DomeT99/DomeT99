@@ -4,17 +4,7 @@
 
 <p align="left">I'm Domenico, Software developer passionate about the Open Source world and everything related to it.<br>This is my GitHub profile where I share my Open Source projects, which you can contribute and use however you like! 🚀</p>
 
-###
 
-## Connect with me
-<div align="left">
-    <a href="https://linktr.ee/domenicotenace" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-</div>
-
-
-
-
-###
 
 ###
 
