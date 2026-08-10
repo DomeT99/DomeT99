@@ -2,16 +2,22 @@
 
 ###
 
-<p align="left">I'm Domenico, Software developer passionate about the Open Source world and everything related to it.<br>This is my GitHub profile where I share my Open Source projects, which you can contribute and use however you like! 🚀</p>
-
+<p align="left">I'm Domenico, Software developer, based in Italy, passionate about the Open Source world and everything related to it.<br>This is my GitHub profile where I share my Open Source projects, which you can contribute and use however you like! 🚀</p>
 
 
 ###
 
-## My Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,vue,nuxt,cs,dotnet&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+## What I do
+ 
+- Build open source projects through **[Domenico Tenace Open Labs](https://github.com/Domenico-Tenace-Open-Labs)**, a sort of lab where I collect web apps, libraries, templates and learning material for the community
+- Write technical articles on [dev.to](https://dev.to/dvalin99), [Substack](https://domenicotenace.substack.com/) and [my blog](https://domenicotenace.dev/blog/)
+- Publish videos on YouTube
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,astro,vue,nuxt,cs,dotnet&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+###
+
+## Newsletter
+ 
+I also write a [newsletter on Substack](https://domenicotenace.substack.com/subscribe), where I share more of what I'm building and learning, in a bit more depth than a single post or video usually allows.
 
 ###
 
@@ -26,23 +32,8 @@
 [![OpenCode, AI coding ma open source 🙏🏻 #opensource #coding #github #ai #shorts #softwareengineer](https://ytcards.demolab.com/?id=nEn6Kjtuwus&title=OpenCode%2C+AI+coding+ma+open+source+%F0%9F%99%8F%F0%9F%8F%BB+%23opensource+%23coding+%23github+%23ai+%23shorts+%23softwareengineer&lang=en&timestamp=1776857847&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=32 "OpenCode, AI coding ma open source 🙏🏻 #opensource #coding #github #ai #shorts #softwareengineer")](https://www.youtube.com/shorts/nEn6Kjtuwus#gh-dark-mode-only)[![OpenCode, AI coding ma open source 🙏🏻 #opensource #coding #github #ai #shorts #softwareengineer](https://ytcards.demolab.com/?id=nEn6Kjtuwus&title=OpenCode%2C+AI+coding+ma+open+source+%F0%9F%99%8F%F0%9F%8F%BB+%23opensource+%23coding+%23github+%23ai+%23shorts+%23softwareengineer&lang=en&timestamp=1776857847&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=32 "OpenCode, AI coding ma open source 🙏🏻 #opensource #coding #github #ai #shorts #softwareengineer")](https://www.youtube.com/shorts/nEn6Kjtuwus#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
 
-
-
 ###
-
-
-
-## My series of articles
-<div>
-  🔸 <a href="https://dev.to/dvalin99/series/29049" target="_blank">My Open Source Diary 📕</a> 
-  <br/>
-  <br/>
-  🔸 <a href="https://dev.to/dvalin99/series/32553" target="_blank">Firebase Essentials 🔥</a> 
-  <br/>
-  <br/>
-  🔸 <a href="https://dev.to/dvalin99/series/27756" target="_blank">7 Open Source Projects You Should Know 👁</a>
-  
-</div>
+ 
 
 ## Support me
 
